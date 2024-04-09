@@ -12,13 +12,17 @@ In this project, various machine learning algorithms are employed to build a pre
 
 ## 📂 Repository Structure
 
-#parkinson-disease-detection/
-├── data/
-│ └── parkinsons_data.csv
-├── notebooks/
-│ └── parkinsons_detection.ipynb
-├── README.md
-└── requirements.txt
+parkinson-disease-detection/
+-│
+-├── data/
+-│ └── parkinsons_data.csv
+-│
+-├── notebooks/
+-│ └── parkinsons_detection.ipynb
+-│
+-├── README.md
+-│
+-└── requirements.txt
 
 ## 🚀 How to Use
 
